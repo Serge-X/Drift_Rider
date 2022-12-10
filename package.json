@@ -1,0 +1,26 @@
+{
+  "name": "drift_rider",
+  "version": "1.0.0",
+  "description": "This is a web dev game built with Three.js and Yuka Libary",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Serge-X/Drift_Rider"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Serge-X/Drift_Rider/issues"
+  },
+  "homepage": "https://github.com/Serge-X/Drift_Rider#readme",
+  "devDependencies": {
+    "parcel": "^2.8.0"
+  },
+  "dependencies": {
+    "three": "^0.147.0"
+  }
+}
