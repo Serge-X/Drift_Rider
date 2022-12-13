@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/Serge-X/Drift_Rider#readme",
   "devDependencies": {
-    "parcel": "^2.8.0"
+    "parcel": "^2.8.1"
   },
   "dependencies": {
     "three": "^0.147.0"
